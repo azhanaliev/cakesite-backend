@@ -1,0 +1,15 @@
+unittest2
+mock
+Flask
+Flask-CORS
+sqlalchemy
+flask_sqlalchemy
+python-dateutil
+xmltodict
+requests
+flask_script
+flask_migrate
+psycopg2-binary
+Flask-APScheduler
+reportlab
+num2words
